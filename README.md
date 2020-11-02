@@ -1,5 +1,5 @@
 # Frontend MPWA (Footballapp)
-Learn frontend engineer topic about a mobile pwa web apps
+Learn frontend engineer topic about a membangun pwa web apps
 
 ## Screenshot
 [View page](https://anantyan.github.io/footballapp/public/)
